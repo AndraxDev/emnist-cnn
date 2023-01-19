@@ -1,4 +1,10 @@
 """
+DISCLAIMER
+I is not recommended to copy this code to avoid failing exams.
+A check for plagiarism and task defense will be performed for 
+each student! Uploaded for informational purposes only.
+"""
+"""
 Convolutional neural network to recognize symbols using a MNIST-like datasets
 Supported datasets: MNIST, EMNIST, KMNIST, QMNIST
 Avg accuracy or 10 training epochs: 0.92
